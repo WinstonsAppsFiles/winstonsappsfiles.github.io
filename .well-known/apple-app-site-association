@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["7T5QS3XCWS.com.winstonsapps.BranchOut"],
+        "components": [
+          { "/": "/branch-out/star", "comment": "Branch Out: Do this with me links" },
+          { "/": "/branch-out/star/", "comment": "Same, with a trailing slash" }
+        ]
+      }
+    ]
+  }
+}
